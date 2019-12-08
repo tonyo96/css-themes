@@ -1,0 +1,23 @@
+@-moz-document url-prefix("http://dcexpert.adatpark.hu/desktop/") {
+* {
+    background: black !important;
+    color: white !important
+}
+.gadget *, .gadget {
+    border: none;
+    background: #303035 !important;
+    border-radius: 0px;
+}
+#column_0 .gadget *, #column_0 .gadget {
+    background: #CF6679 !important;
+    color:black !important;
+}
+.applicationName {
+    color: #3700B3 !important;
+    font-size: 30px
+}
+.applicationName::after {
+    content:"🌙 Nocturnal Mode by Tonyo 😎";
+    color: #03DAC6 !important;
+}
+}
