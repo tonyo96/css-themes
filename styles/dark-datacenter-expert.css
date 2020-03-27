@@ -17,7 +17,7 @@
     font-size: 30px
 }
 .applicationName::after {
-    content:"🌙 Nocturnal Mode by Tonyo 😎";
+    content:"🌙 Nocturnal Mode by Tonyo 🦉";
     color: #03DAC6 !important;
 }
 }
